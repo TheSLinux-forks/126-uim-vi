@@ -9,7 +9,7 @@
 (define enable-im-toggle? #t)
 (define toggle-im-key '("<Control><Alt> "))
 (define toggle-im-key? (make-key-predicate '("<Control><Alt> ")))
-(define toggle-im-alt-im 'xtelex)
+(define toggle-im-alt-im 'direct)
 (define uim-color 'uim-color-atok)
 (define candidate-window-style 'table)
 (define candidate-window-position 'caret)

@@ -28,6 +28,10 @@ that is in this repository. Please make a backup of your data first.
   * Toggle state of the current IM: `Super Escape`
   * Commit a state : `^ Return`
   * Undo the last state: `Backspace`
+* UIM settings:
+  * Candidate window: disable by default
+  * m17n IMs: default state is `on`
+  * Generic IMs: default state is `on`
 
 ## VNI Users
 

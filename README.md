@@ -6,7 +6,7 @@ This package should be used with the package `uim-vi-xtelex` from `TheSLinux`.
 
 ## Target users
 
-* Telex users (VNI users need a [minor changes](#VNI-users))
+* Telex users (VNI users need a [minor changes](#vni-users))
 * Users who often type English and Vietnamese in the same documentation
 * Traditional Vietnamese users who want `hòa` not `hoà`
 
@@ -29,7 +29,7 @@ that is in this repository. Please make a backup of your data first.
   * Commit a state : `^ Return`
   * Undo the last state: `Backspace`
 
-## VNI Users {#VNI-users}
+## VNI Users
 
 This profile can be used by `VNI` users with a minor change. The key
 is to change the order of enabled `IM`s and put `XVNI` on the top of the

@@ -55,7 +55,7 @@ The following documentations are in Vietnamese
 * http://theslinux.org/doc/uim-vi/vim/
 * http://theslinux.org/doc/uim-vi/woman/
 
-To get support please create an ticket at http://theslinux.org/bugs/all .
+To get support please create a ticket at http://theslinux.org/bugs/all .
 
 ## Author
 
